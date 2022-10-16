@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>BOX500</Machine>
+    <WindowsUser>xuzhe</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|ARM64</SolutionConfiguration>
+    <PackageArchitecture>arm64</PackageArchitecture>
+    <PackageIdentityName>4b5d52db-3416-4b0a-a62d-23a39a11b5fc</PackageIdentityName>
+    <PackageIdentityPublisher>CN=xuzhe</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\xuzhe\source\repos\RehabApp\obj\ARM64\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\xuzhe\source\repos\RehabApp\bin\ARM64\Release\AppX</LayoutDir>
+    <RegisteredManifestChecksum>30E2030E494D32DEA276304007CD9CDAAF0870ECED10583FAEAC04631F3CEE45</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>4b5d52db-3416-4b0a-a62d-23a39a11b5fc_1.0.0.0_arm64__r1fr1cb483n9r</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>4b5d52db-3416-4b0a-a62d-23a39a11b5fc_r1fr1cb483n9r!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>4b5d52db-3416-4b0a-a62d-23a39a11b5fc</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=xuzhe</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\xuzhe\source\repos\RehabApp\bin\ARM64\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-10-16T19:39:17.475</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\xuzhe\source\repos\RehabApp\bin\ARM64\Release\ilc\Assets\arrow.gltf">
+      <PackagePath>Assets\arrow.gltf</PackagePath>
+      <Modified>2022-10-16T10:49:16.279</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xuzhe\source\repos\RehabApp\bin\ARM64\Release\ilc\Assets\DamagedHelmet.gltf">
+      <PackagePath>Assets\DamagedHelmet.gltf</PackagePath>
+      <Modified>2022-10-16T10:42:59.570</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xuzhe\source\repos\RehabApp\bin\ARM64\Release\ilc\Assets\floor.hlsl">
+      <PackagePath>Assets\floor.hlsl</PackagePath>
+      <Modified>2022-10-16T10:42:17.902</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xuzhe\source\repos\RehabApp\bin\ARM64\Release\ilc\Assets\floor.hlsl.sks">
+      <PackagePath>Assets\floor.hlsl.sks</PackagePath>
+      <Modified>2022-10-16T17:16:42.178</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xuzhe\source\repos\RehabApp\bin\ARM64\Release\ilc\Assets\Logo\Logo-150.png">
+      <PackagePath>Assets\Logo\Logo-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-10-16T10:42:17.892</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xuzhe\source\repos\RehabApp\bin\ARM64\Release\ilc\Assets\Logo\Logo-16.png">
+      <PackagePath>Assets\Logo\Logo-16.png</PackagePath>
+      <Modified>2022-10-16T10:42:17.892</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xuzhe\source\repos\RehabApp\bin\ARM64\Release\ilc\Assets\Logo\Logo-310.png">
+      <PackagePath>Assets\Logo\Logo-310.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-10-16T10:42:17.898</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xuzhe\source\repos\RehabApp\bin\ARM64\Release\ilc\Assets\Logo\Logo-44.png">
+      <PackagePath>Assets\Logo\Logo-44.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-10-16T10:42:17.898</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xuzhe\source\repos\RehabApp\bin\ARM64\Release\ilc\Assets\Logo\Logo-50.png">
+      <PackagePath>Assets\Logo\Logo-50.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-10-16T10:42:17.899</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xuzhe\source\repos\RehabApp\bin\ARM64\Release\ilc\Assets\Logo\Logo-71.png">
+      <PackagePath>Assets\Logo\Logo-71.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-10-16T10:42:17.899</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xuzhe\source\repos\RehabApp\bin\ARM64\Release\ilc\Assets\Logo\Logo-Wide150.png">
+      <PackagePath>Assets\Logo\Logo-Wide150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-10-16T10:42:17.899</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xuzhe\source\repos\RehabApp\bin\ARM64\Release\ilc\Assets\Logo\Logo-Wide300.png">
+      <PackagePath>Assets\Logo\Logo-Wide300.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-10-16T10:42:17.899</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xuzhe\source\repos\RehabApp\bin\ARM64\Release\ilc\Assets\power.png">
+      <PackagePath>Assets\power.png</PackagePath>
+      <Modified>2022-10-16T10:43:02.969</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xuzhe\source\repos\RehabApp\bin\ARM64\Release\ilc\clrcompression.dll">
+      <PackagePath>clrcompression.dll</PackagePath>
+      <Modified>2019-07-22T13:59:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xuzhe\source\repos\RehabApp\bin\ARM64\Release\ilc\RehabApp.dll">
+      <PackagePath>RehabApp.dll</PackagePath>
+      <Modified>2022-10-16T19:39:17.402</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xuzhe\source\repos\RehabApp\bin\ARM64\Release\ilc\RehabApp.exe">
+      <PackagePath>RehabApp.exe</PackagePath>
+      <Modified>2022-10-16T19:39:17.470</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xuzhe\source\repos\RehabApp\bin\ARM64\Release\ilc\RehabApp.pdb">
+      <PackagePath>RehabApp.pdb</PackagePath>
+      <Modified>2022-10-16T19:39:17.417</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xuzhe\source\repos\RehabApp\bin\ARM64\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2022-10-16T17:16:42.586</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xuzhe\source\repos\RehabApp\bin\ARM64\Release\ilc\StereoKitC.dll">
+      <PackagePath>StereoKitC.dll</PackagePath>
+      <Modified>2022-06-06T16:54:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xuzhe\source\repos\RehabApp\bin\ARM64\Release\ilc\StereoKitC.pdb">
+      <PackagePath>StereoKitC.pdb</PackagePath>
+      <Modified>2022-06-06T16:54:26.000</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Users\xuzhe\.nuget\packages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.7-rel-27913-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx">
+      <Name>Microsoft.NET.Native.Framework.2.2</Name>
+      <Version>2.2.27912.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.2, MinVersion = 2.2.27912.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\xuzhe\.nuget\packages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.7-rel-27913-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\xuzhe\.nuget\packages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.2.7-rel-27913-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx">
+      <Name>Microsoft.NET.Native.Framework.2.2</Name>
+      <Version>2.2.27912.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.2, MinVersion = 2.2.27912.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\xuzhe\.nuget\packages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.2.7-rel-27913-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\xuzhe\.nuget\packages\runtime.win10-arm64.microsoft.net.native.sharedlibrary\2.2.7-rel-27913-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx">
+      <Name>Microsoft.NET.Native.Framework.2.2</Name>
+      <Version>2.2.27912.0</Version>
+      <Architecture>arm64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.2, MinVersion = 2.2.27912.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\xuzhe\.nuget\packages\runtime.win10-arm64.microsoft.net.native.sharedlibrary\2.2.7-rel-27913-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\xuzhe\.nuget\packages\runtime.win10-arm.microsoft.net.native.sharedlibrary\2.2.7-rel-27913-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx">
+      <Name>Microsoft.NET.Native.Framework.2.2</Name>
+      <Version>2.2.27912.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.2, MinVersion = 2.2.27912.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\xuzhe\.nuget\packages\runtime.win10-arm.microsoft.net.native.sharedlibrary\2.2.7-rel-27913-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\xuzhe\.nuget\packages\runtime.win10-x86.microsoft.net.native.compiler\2.2.7-rel-27913-00\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.2.2.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.2</Name>
+      <Version>2.2.27328.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.2, MinVersion = 2.2.27328.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\xuzhe\.nuget\packages\runtime.win10-x86.microsoft.net.native.compiler\2.2.7-rel-27913-00\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\xuzhe\.nuget\packages\runtime.win10-x64.microsoft.net.native.compiler\2.2.7-rel-27913-00\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.2.2.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.2</Name>
+      <Version>2.2.27328.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.2, MinVersion = 2.2.27328.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\xuzhe\.nuget\packages\runtime.win10-x64.microsoft.net.native.compiler\2.2.7-rel-27913-00\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\xuzhe\.nuget\packages\runtime.win10-arm64.microsoft.net.native.compiler\2.2.7-rel-27913-00\build\..\tools\Runtime\arm64\Microsoft.NET.Native.Runtime.2.2.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.2</Name>
+      <Version>2.2.27328.0</Version>
+      <Architecture>arm64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.2, MinVersion = 2.2.27328.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\xuzhe\.nuget\packages\runtime.win10-arm64.microsoft.net.native.compiler\2.2.7-rel-27913-00\build\..\tools\Runtime\arm64\Microsoft.NET.Native.Runtime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\xuzhe\.nuget\packages\runtime.win10-arm.microsoft.net.native.compiler\2.2.7-rel-27913-00\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.2.2.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.2</Name>
+      <Version>2.2.27328.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.2, MinVersion = 2.2.27328.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\xuzhe\.nuget\packages\runtime.win10-arm.microsoft.net.native.compiler\2.2.7-rel-27913-00\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM64\Microsoft.VCLibs.ARM64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
