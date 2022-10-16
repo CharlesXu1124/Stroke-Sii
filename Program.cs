@@ -37,15 +37,15 @@ namespace StereoKitProject1
         static void rightTurnArrow()
         {
             start_arrow_z -= 0.010f;
-            start_arrow_x += 0.005f;
-            start_angle_right -= 5;
+            start_arrow_x += 0.002f;
+            start_angle_right -= 1;
         }
 
         static void leftTurnArrow()
         {
             start_arrow_z -= 0.010f;
-            start_arrow_x -= 0.005f;
-            start_angle_left += 5;
+            start_arrow_x -= 0.002f;
+            start_angle_left += 1;
         }
 
         static void Main(string[] args)
@@ -109,11 +109,11 @@ namespace StereoKitProject1
                     }
                     
                 }
-                if (counter % 100 == 0) // start turning right
+                if (counter % 5000 == 0) // start turning right
                 {
                     direction = 1;
                 }
-                if (counter % 200 == 0) // start turning left
+                if (counter % 10000 == 0) // start turning left
                 {
                     direction = -1;
                 }

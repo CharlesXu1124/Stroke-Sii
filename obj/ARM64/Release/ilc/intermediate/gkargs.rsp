@@ -3,6 +3,6 @@
 /Lib:"C:\Users\xuzhe\source\repos\RehabApp\obj\ARM64\Release\ilc\in"
 /Lib:"C:\Users\xuzhe\.nuget\packages\runtime.win10-arm64.microsoft.net.native.compiler\2.2.7-rel-27913-00\tools\ARM64\ilc\lib\Private"
 /WinMD:"C:\Users\xuzhe\source\repos\RehabApp\obj\ARM64\Release\ilc\in\WinMetadata\Windows.winmd"
-/VSTelemetrySessionSettings:"{"IsOptedIn":true,"HostName":"Dev14","AppInsightsInstrumentationKey":"f144292e-e3b2-4011-ac90-20e5c03fbce5","AsimovInstrumentationKey":"AIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70","AppId":1001,"UserId":"5220c2cf-348f-4769-a94d-8a7e5ef08394","Id":"88ed9561-05cb-465f-a650-cfcf0ed92a37","ProcessStartTime":638015137082475337}"
+/VSTelemetrySessionSettings:"{"IsOptedIn":true,"HostName":"Dev14","AppInsightsInstrumentationKey":"f144292e-e3b2-4011-ac90-20e5c03fbce5","AsimovInstrumentationKey":"AIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70","AppId":1001,"UserId":"5220c2cf-348f-4769-a94d-8a7e5ef08394","Id":"1de4e139-4495-40c5-a03f-0657d2620f82","ProcessStartTime":638015466610083334}"
 /RdXmlPath:"C:\Users\xuzhe\.nuget\packages\microsoft.net.native.compiler\2.2.7-rel-27913-00\tools\LibraryXML"
 /RunOnlyPreDR

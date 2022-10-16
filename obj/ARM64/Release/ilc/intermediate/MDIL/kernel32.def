@@ -8,13 +8,13 @@ EXPORTS
    WriteFile
    GetStdHandle
    GetNativeSystemInfo
+   SetConsoleMode
    FormatMessageW
-   MultiByteToWideChar
+   GetConsoleCP
    ReadFile
    GetFileType
    LoadLibraryW
-   GetConsoleCP
+   MultiByteToWideChar
    ReadConsoleW
-   SetConsoleMode
 
 
